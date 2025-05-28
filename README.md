@@ -1,4 +1,4 @@
-### 🛠️ Sweep Modifier (v2.0.0) – Documentation
+### 🛠️ Sweep Modifier Lite (v2.0.0) – Documentation
 
 **Author:** Abbos Mirzaev
 
