@@ -12,12 +12,7 @@
 - **Pie Menu:** `Ctrl + Shift + Q` (when a Mesh or Curve is selected)
 
 ---
-
-<div align="left">
-      <a href="[https://www.youtube.com/watch?v=5yLzZikS15k](https://youtu.be/lfTAdxE1cmk?si=D9Vzs0E4Lmnosqdz)">
-         <img src="[https://img.youtube.com/vi/5yLzZikS15k/0.jpg](https://assets.superhivemarket.com/store/product/236044/image/xlarge_og-305229b5354d71de0e19686251fc3889.png)" style="width:100%;">
-      </a>
-</div>
+[![Watch the video](https://assets.superhivemarket.com/store/product/236044/image/xlarge_og-305229b5354d71de0e19686251fc3889.png)](https://youtu.be/lfTAdxE1cmk?si=D9Vzs0E4Lmnosqdz)
 
 ---
 
